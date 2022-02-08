@@ -818,6 +818,54 @@
       "settings": {
         "foreground": "#B267E6"
       }
+    },
+    {
+      "scope": ["variable.other.object"],
+      "settings": {
+        "foreground": "#CCCCCC"
+      }
+    },
+    {
+      "scope": ["variable.other.object.property"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["keyword.other.interface"],
+      "settings": {
+        "foreground": "#AF7EB9"
+      }
+    },
+    {
+      "scope": ["entity.name.type.class"],
+      "settings": {
+        "foreground": "#AF7EB9"
+      }
+    },
+    {
+      "scope": ["punctuation.definition.typeparameters"],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "foreground": "#999999"
+      }
+    },
+    {
+      "scope": ["string.quoted"],
+      "settings": {
+        "foreground": "#BEB384"
+      }
+    },
+    {
+      "scope": ["punctuation.terminator.statement"],
+      "settings": {
+        "foreground": "#999999"
+      }
     }
   ]
 }
