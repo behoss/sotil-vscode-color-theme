@@ -1,0 +1,28 @@
+{
+  "name": "sotil",
+  "author": {
+    "name": "Behzad Hosseini",
+    "email": "bhd.hosseini@gmail.com"
+  },
+  "displayName": "sotil",
+  "description": "A subtle color theme for the rest of us",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/behoss/sotil-vscode-color-theme"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sotil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sotil-color-theme.json"
+      }
+    ]
+  }
+}
